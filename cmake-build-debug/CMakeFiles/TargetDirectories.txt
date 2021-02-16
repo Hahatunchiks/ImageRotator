@@ -1,3 +1,0 @@
-/home/mike/CLionProjects/image-rotation-lab/image_rotation_lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/mike/CLionProjects/image-rotation-lab/image_rotation_lab/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mike/CLionProjects/image-rotation-lab/image_rotation_lab/cmake-build-debug/CMakeFiles/image_rotation_lab.dir
